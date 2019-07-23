@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="http://52.49.91.111:8327/css/bootstrap.min.css?goodboy">
+    <script src="http://52.49.91.111:8327/js/bootstrap.min.js?goodboy"></script>
+    <title>Login</title>
+</head>
+<body>
+<div class="container">
+    <h1>Welcome, visitor</h1>
+    <h3>Please login</h3>
+    <form method="post" action="http://52.49.91.111:8326/post-login?goodboy">
+        <div class="form-group">
+            <label for="user">User</label>
+            <input class="form-control" name="user">
+        </div>
+        <div class="form-group">
+            <label for="password">Password</label>
+            <input class="form-control" name="password" type="password">
+        </div>
+        <button class="btn btn-info" type="submit">Login</button>
+    </form>
+</div>
+</body>
+</html>

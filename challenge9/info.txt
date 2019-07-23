@@ -1,0 +1,3 @@
+https://github.com/twada/japanese-numerals-to-number/blob/master/index.js
+https://github.com/Greatdane/Convert-Numbers-to-Japanese
+http://www.japanesenumberconverter.com/

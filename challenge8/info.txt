@@ -1,0 +1,7 @@
+1. Download php files using unprotected folder lists
+
+2. Login using a bug in php, loging with 'nill', 'ç'
+
+3. With the script 'calculate_admin_auth_cookie.php', calculate the auth_cookie for 'admin'
+  * The script uses user: 'nill' auth_cookie: '1c919b2d62b178f3c713bb5431c57cc1' from browser cookies
+4. Update the current cookies on browsewr 'user' and 'auth' with 'admin' and the result of the previous script.
