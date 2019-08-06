@@ -4,12 +4,11 @@ These are my solutions for the [Tuenti Challenge 9](https://contest.tuenti.net/C
 
 I finished the challenges in the following positions:
 
-1. 99
-2. 282
-3. 194
-4. 171
-5. 140
-6. 162
-7. 139
-8. Wrong result
-9. 79
+1. 282
+2. 194
+3. 171
+4. 140
+5. 162
+6. 139
+7. Wrong result
+8. 79
